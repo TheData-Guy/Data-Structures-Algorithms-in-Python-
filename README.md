@@ -1,2 +1,2 @@
-# Data-Structures-Algorithms-in-Python-
+# Data Structures Algorithms in Python
 Complete DSA In Python
